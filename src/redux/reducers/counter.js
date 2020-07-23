@@ -3,8 +3,14 @@ const initialState={
 }
 const reducer = (state=initialState,action)=>{
     switch (action.type) {
-        case "INCREMENT":
-            return {...state, counter: state.counter+action.value}
+        case "ADDITION":
+            return { ...state, counter: Number(action.inputOne) + Number(action.inputTwo)}
+        case "SUBTRACTION":
+            return { ...state, counter: Number(action.inputOne) - Number(action.inputTwo)}
+        case "MULTIPLICATION":
+            return { ...state, counter: Number(action.inputOne) * Number(action.inputTwo)}
+        case "DEVISION":
+            return { ...state, counter: Number(action.inputOne) / Number(action.inputTwo)}
         default:
             return state
     }

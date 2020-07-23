@@ -1,9 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="955342cc-9bbe-4290-80cc-02dd892aef6b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CounterControl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CounterControl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CounterOutput.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CounterOutput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Counter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/counter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +33,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1f4oLkiWM2u4ymSwy71SvTxtJ5n" />
@@ -23,7 +50,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../challenge" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SvnConfiguration">
@@ -38,10 +71,39 @@
       <updated>1595486671251</updated>
       <workItem from="1595486677242" duration="635000" />
       <workItem from="1595494855367" duration="485000" />
+      <workItem from="1595513886126" duration="292000" />
+      <workItem from="1595514304594" duration="699000" />
+      <workItem from="1595515055312" duration="8132000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="155" width="424" height="485" key="FileChooserDialogImpl" timestamp="1595518905553">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="155" width="424" height="485" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1595518905553" />
+    <state x="278" y="133" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1595522918626">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="133" width="800" height="529" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1595522918626" />
+    <state x="347" y="175" key="run.anything.popup" timestamp="1595520261845">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="175" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1595520261845" />
   </component>
 </project>
